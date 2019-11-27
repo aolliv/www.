@@ -108,7 +108,7 @@ button{
 
 }
 
-nav, footer{
+#home nav, footer{
   color: #F2F2F0
   width: 100%;
   height: 80px;
@@ -120,16 +120,19 @@ footer{
   
 }
 
-h1{
+#home h1{
   color: : #F2F2F0
   font-size: 14px;
 }
 
+
+#home h3{
+    color: #F2F2F0;
+    font-size: 42px;
 }
 
-h3{
-    color: #3F3E40;
-    font-size: 42px;
+#about h3{
+
 }
 
 p{
@@ -138,14 +141,15 @@ p{
   text-align: justify;
 }
 
-img{
+
+.uno{
   width: 20%;
   height: 30%;
-  max-width: 50%;
+
 }
 
 
-
+#about img{}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
