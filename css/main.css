@@ -102,6 +102,11 @@ body{
   background: #E3E1E6;
   font-family: Grenze;
 }
+button{
+
+
+
+}
 
 nav, footer{
   color: #F2F2F0
@@ -116,7 +121,7 @@ footer{
 }
 
 h1{
-  text color: #BF8B2A
+  text-decoration-color: : #F2F2F0
   font-size: 14px;
 }
 
