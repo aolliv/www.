@@ -116,7 +116,7 @@ footer{
 
 h1{
   color: #F2F2F0
-  font-size: 20px;
+  font-size: 28px;
 }
 
 }
@@ -127,14 +127,14 @@ h3{
 }
 
 p{
-  color: #568fa6;
-  font-size: 28px;
+  color: #0D0D0D;
+  font-size: 20px;
   text-align: justify;
 }
 
 img{
-  width: 40%;
-  height: 50%;
+  width: 20%;
+  height: 30%;
   max-width: 50%;
 }
 
