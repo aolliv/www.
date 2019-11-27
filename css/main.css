@@ -116,25 +116,25 @@ footer{
 
 h1{
   color: #F2F2F0
-  font-size: 30px;
+  font-size: 20px;
 }
 
 }
 
-h2{
-    color: #f5bcbd;
-    font-size: 72px;
+h3{
+    color: #3F3E40;
+    font-size: 42px;
 }
 
 p{
   color: #568fa6;
-  font-size: 36px;
+  font-size: 28px;
   text-align: justify;
 }
 
 img{
   width: 40%;
-  height: 
+  height: 50%;
   max-width: 50%;
 }
 
