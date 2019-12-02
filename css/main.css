@@ -119,6 +119,7 @@ height
 
 footer{
   height:100px;
+  position: 500px;
   
 }
 
@@ -163,7 +164,7 @@ p{
 #about footer
 
 {
-
+color: #F2F2F0
 width: 100px;
 height:
 
