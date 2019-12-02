@@ -115,17 +115,14 @@ height
   width: 120%;
   height: 80px;
   background: #400601;
+   color: #F2F2F0
 }
 
-footer{
-  height:100px;
- color: #F2F2F0
-  
-}
+
 
 #home h1{
   
-  font-size: 24px;
+  font-size: 30px;
   color: #F2F2F0
 }
 
