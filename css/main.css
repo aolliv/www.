@@ -111,7 +111,7 @@ height
 }
 
 #home nav, footer{
-  color: #F2F2F0
+  
   width: 120%;
   height: 80px;
   background: #400601;
@@ -119,7 +119,7 @@ height
 
 footer{
   height:100px;
- 
+ color: #F2F2F0
   
 }
 
