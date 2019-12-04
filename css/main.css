@@ -112,10 +112,12 @@ height
 
 #home nav, footer{
   
+  position: fixed;
   width: 140%;
   height: 80px;
   background: #400601;
    color: #F2F2F0
+
 }
 
 
