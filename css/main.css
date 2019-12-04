@@ -124,6 +124,7 @@ height
   
   font-size: 30px;
   color: #F2F2F0
+
 }
 
 
@@ -143,16 +144,6 @@ p{
   
 }
 
-li{
-
-order: 
-1
-2
-3
-4
-
-
-}
 
 .uno{
   width: 10%;
@@ -169,12 +160,12 @@ order:
 #about img{}
 
 
-#about footer
+#about nav
 
 {
 color: #F2F2F0
 width: 100px;
-height:
+height: 100px;
 
 
 }
