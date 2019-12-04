@@ -110,9 +110,9 @@ height
 
 }
 
-#home nav, {
+#home nav, footer{
   
-
+  
   width: 140%;
   height: 80px;
   background: #400601;
@@ -121,14 +121,9 @@ height
 }
 
 #home footer{
-
-width: 140%;
-  height: 80px;
-  background: #400601;
-   color: #F2F2F0
-
-}
-
+  
+position: fixed;
+  }
 
 
 #home h1{
@@ -140,10 +135,9 @@ width: 140%;
 }
 #home h2{
   
-  text-align: justify;
+  
   font-size: 30px;
   color: #F2F2F0
-  
 }
 
 
