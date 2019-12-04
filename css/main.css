@@ -133,7 +133,7 @@ width: 140%;
 #home h1{
   
   text-align: center;
-  padding: 50px;
+  padding: 20px;
   font-size: 30px;
   color: #F2F2F0
 
@@ -185,7 +185,7 @@ height: 100px;
 #about footer
 
 {
-
+text-align: center;
 width: 100%;
 height: 120px;
 font-size: 28px;
@@ -221,11 +221,10 @@ font-family: Roboto Condensed;
 #contacto button
 
 {
-  background: #0D0D0D;
-color: #F2F2F0;
-width: 20%;
-height: 40px;
+ 
 
+width: 150px;
+height:  70px;
 
 }
 
@@ -243,12 +242,8 @@ height: 80px;
 #manifiesto button
 
 {
-background: #0D0D0D;
-color: #F2F2F0;
-width: 30%;
-height: 30px;
-
-
+width: 150px;
+height:  70px;
 }
 
 
