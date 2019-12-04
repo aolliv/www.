@@ -169,11 +169,43 @@ height: 100px;
 
 width: 100%;
 height: 120px;
-font-size: 36px;
+font-size: 28px;
 
 
 
 }
+
+#contacto nav
+
+{
+background: #400601;
+width: 100%;
+height: 140px;
+
+
+}
+
+#contacto button
+
+{
+color: #F2F2F0;
+width: 20%;
+height: 20px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* ==========================================================================
