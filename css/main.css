@@ -162,9 +162,17 @@ p{
 
   
 }
-#home img{
+.uno{
 
 width: 25%;
+height: 10%;
+padding-left: 30%;
+
+}
+
+.dos{
+
+  width: 25%;
 height: 10%;
 padding-left: 50%;
 
