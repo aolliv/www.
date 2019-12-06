@@ -153,7 +153,7 @@ width: 140%;
 
 #about h3{
 
-padding-bottom: 20%;
+
   color: #0D0D0D;
   font-size: 20px;
   text-align: justify;
@@ -161,6 +161,7 @@ padding-bottom: 20%;
 }
 
 #about p{
+   padding-bottom: 20%;
   color: #0D0D0D;
   font-size: 20px;
   text-align: justify;
