@@ -215,7 +215,8 @@ height: 100px;
 #contacto h2
 
 {
-  padding-bottom: 50px;
+  margin-left: 20px;
+  padding-bottom: 30px;
   color: #F2F2F0;
 font-size: 24px;
 font-family: Roboto Condensed;
@@ -224,6 +225,7 @@ font-family: Roboto Condensed;
 #contacto h3
 
 {
+   margin-left: 20px;
 font-size: 24px;
 font-family: Roboto Condensed;
 }
