@@ -383,7 +383,14 @@ font size: 14px;
 margin-left: 15px;
 font-family: 'Gupter';
 }
+#renders nav
 
+{
+background: #400601;
+width: 100%;
+height: 80px;
+
+}
 
 .uno
 
@@ -405,9 +412,25 @@ margin-left: 50%;
 
 }
 
+.tres
 
+{
+padding-top: 30px;
+width: 50%;
+height:  50%;
+margin-left: 15px;
 
+}
 
+.cuatro
+
+{
+padding-top: 30px;
+width: 50%;
+height:  50%;
+margin-left: 50%;
+
+}
 
 
 
