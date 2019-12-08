@@ -161,6 +161,7 @@ p{
   font-size: 20px;
   text-align: justify;
 
+
   
 }
 
@@ -266,6 +267,14 @@ height: 80px;
 width: 150px;
 height:  70px;
 }
+
+#manifiesto img
+
+{
+width: 50%;
+height:  50%;
+}
+
 
 
 
