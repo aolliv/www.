@@ -334,7 +334,7 @@ height:  70px;
 width: 50%;
 height:  50%;
 }
-#proyectos dt
+#proyectos h2
 
 {
 font size: 28px;
@@ -346,6 +346,11 @@ font size: 28px;
 font size: 20px;
 }
 
+#proyectos h4
+
+{
+font size: 20px;
+}
 
 
 
