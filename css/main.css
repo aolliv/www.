@@ -385,15 +385,27 @@ font-family: 'Gupter';
 }
 
 
-#renders img
+.uno
 
 {
-padding-top: 15px;
+padding-top: 30px;
 width: 50%;
 height:  50%;
 margin-left: 15px;
 
 }
+
+.dos
+
+{
+padding-top: 30px;
+width: 50%;
+height:  50%;
+margin-left: 50%;
+
+}
+
+
 
 
 
