@@ -147,6 +147,7 @@ width: 140%;
 
 
 #home h3{
+  padding-top: 20px;
     color: #3F3E40;
     font-size: 42px;
    
@@ -369,6 +370,7 @@ height:  70px;
 #info h3
 
 {
+  padding-top: 25px;
 font size: 30px;
 margin-left: 15px;
 font-family: 'Bebas Neue';
