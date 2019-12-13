@@ -362,27 +362,28 @@ height: 40px;
 
 .uno{
 
-width: 20%;
-height: 30%;
-margin-left: 40px;  
+width: 40%;
+height: 40%;
+margin-left: 40px; 
+padding-top: 80px; 
 }
 .dos{
 
-width: 20%;
-height: 30%;
-margin-left: 50%;  
+width: 40%;
+height: 40%;
+
 }
 .tres{
 
-width: 20%;
-height: 30%;
-margin-left: 40px;  
+width: 40%;
+height: 40%;
+
 }
 .cuatro{
 
-width: 20%;
-height: 30%;
-margin-left: 50%;  
+width: 40%;
+height: 40%;
+
 }
 
 
