@@ -303,14 +303,7 @@ width: 70px;
 height: 40px;
 
 }
-  #proyectos button{
-  
-  
-margin-left: 30px;
-width: 70px; 
-height: 40px;
 
-}
 #proyectos img{
   
 
@@ -346,6 +339,51 @@ font-size: 26px;
 
 }
 
+
+#renders nav{
+  
+  
+  width: 100%;
+  height: 80px;
+ 
+  background: #400601;
+   color: #F2F2F0
+
+}
+
+#renders button{
+  
+  
+margin-left: 30px;
+width: 70px; 
+height: 40px;
+
+}
+
+.uno{
+
+width: 20%;
+height: 30%;
+margin-left: 40px;  
+}
+.dos{
+
+width: 20%;
+height: 30%;
+margin-left: 50%;  
+}
+.tres{
+
+width: 20%;
+height: 30%;
+margin-left: 40px;  
+}
+.cuatro{
+
+width: 20%;
+height: 30%;
+margin-left: 50%;  
+}
 
 
 
